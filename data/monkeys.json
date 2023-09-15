@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Quincy",
+        "cost": 540,
+        "description": "A skilled archer who can target multiple bloons at once.",
+        "image": "Quincy.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gwendolin",
+        "cost": 725,
+        "description": "A fire-wielding hero with area damage and popping power.",
+        "image": "Gwendolin.jpg"
+        
+    },
+    {
+        "id": 3,
+        "name": "Striker Jones",
+        "cost": 750,
+        "description": "A military strategist who enhances nearby bomb towers.",
+        "image":"StrikerJones.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Obyn Greenfoot",
+        "cost": 650,
+        "description": "A nature-themed hero who can summon thorned vines to attack bloons and buffs druids.",
+        "image": "ObynGreenfoot.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Captain Churchill",
+        "cost": 1500,
+        "description": "A heavy artillery expert with a powerful multi-shot attack.",
+        "image":"CaptainChurchill.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Benjamin",
+        "cost": 1200,
+        "description": "A hacker who generates extra income and sabotages bloons.",
+        "image":"Benjamin.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ezili",
+        "cost": 600,
+        "description": "A voodoo witch who can hex and damage bloons over time.",
+        "image":"Ezili.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Pat Fusty",
+        "cost": 800,
+        "description": "A massive ape who slams the ground to stun and damage bloons.",
+        "image":"PatFusty.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Adora",
+        "cost": 1000,
+        "description": "A high priestess with divine powers and a transforming attack.",
+        "image":"Adora.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Admiral Brickell",
+        "cost": 750,
+        "description": "A naval hero who boosts water-based towers and calls in naval support.",
+        "image":"AdmiralBrickell.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sauda",
+        "cost": 600,
+        "description": "A warrior hero who uses dual swords to attack and is a strong early-game hero.",
+        "image":"Sauda.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Etienne",
+        "cost": 850,
+        "description": "A drone-controlling hero who provides camo detection at a higher level.",
+        "image":"Etienne.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Psi",
+        "cost": "800",
+        "description": "A psychic monk that can delay bloons and does high single-target damage.",
+        "image": "Psi.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Geraldo",
+        "cost": 600,
+        "description": "A mystical shop-keeper who sells unique items to assist you.",
+        "image": "Geraldo.jpg"
+    }
+]

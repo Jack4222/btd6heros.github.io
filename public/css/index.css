@@ -19,16 +19,13 @@ a {
     text-align:center;
 }
 #masterContainer {
-    position:relative;
     display:grid;
     grid-template-columns:auto auto auto;
     gap:30px;
-    height:2000px;
     width:90vw;
     margin:5vw;
 }
 .heroContainer {
-    position:absolute;
     background:white;
     display:flex;
     flex-direction:column;
@@ -46,4 +43,5 @@ img {
 .heroContainer:hover {
     border:8px solid black;
     transition:1s;
+    box-sizing:border-box;
 }

@@ -19,7 +19,7 @@ a {
     text-align:center;
 }
 #masterContainer {
-    position:absolute;
+    position:relative;
     display:grid;
     grid-template-columns:auto auto auto;
     gap:30px;
@@ -27,7 +27,7 @@ a {
     margin:5vw;
 }
 .heroContainer {
-    position:relative;
+    position:absolute;
     background:white;
     display:flex;
     flex-direction:column;
